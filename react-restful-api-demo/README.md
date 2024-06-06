@@ -3,7 +3,7 @@
 - In the project directory, you can run:
 
 ```sh
-`npm start`
+npm start
 ```
 
 - Runs the app in the development mode.\
